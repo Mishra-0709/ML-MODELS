@@ -8,6 +8,7 @@ Despite the availability of a wide range of clothing options, customers often st
 
 To address this issue, we have developed an integrated feature within the shopping platform that leverages AI technology to provide personalized color recommendations based on the user's skin tone. This feature aims to enhance the shopping experience by offering tailored guidance and educational content.
 
+## Dataset:https://www.kaggle.com/datasets/nguyngiabol/colorful-fashion-dataset-for-object-detection
 ### Key Features
 
 1. **Skin Tone Detection**:
